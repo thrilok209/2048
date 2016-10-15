@@ -337,8 +337,8 @@ hr {
 
      }
   .tile.tile-8 .tile-inner {
-    color: #f9f6f2;
-    background: #f2b179; }
+  background-image: url(https://github.com/thrilok209/thrilok.github.io/blob/master/2048/2.png?raw=true);
+   }
   .tile.tile-16 .tile-inner {
     color: #f9f6f2;
     background: #f59563; }
