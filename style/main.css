@@ -325,7 +325,8 @@ hr {
   .tile .tile-inner {
     border-radius: 3px;
     background: #eee4da;
-    text-align: right;
+    text-align: top right;
+    color: #EA4335;
     font-weight: bold;
     z-index: 10;
     font-size: 30px; }
@@ -340,59 +341,59 @@ hr {
     background-size: 106.25px 106.25px;
      }
   .tile.tile-8 .tile-inner {
-  background-image: url(https://github.com/thrilok209/thrilok.github.io/blob/master/2048/8.png?raw=true);
+  background-image: url(image/8.png?raw=true);
      background-repeat: no-repeat;
     background-size: 106.25px 106.25px;
    }
   .tile.tile-16 .tile-inner {
-    background-image: url(https://github.com/thrilok209/thrilok.github.io/blob/master/2048/16.png?raw=true);
+    background-image: url(image/16.png?raw=true);
      background-repeat: no-repeat;
     background-size: 106.25px 106.25px; }
   .tile.tile-32 .tile-inner {
-     background-image: url(https://github.com/thrilok209/thrilok.github.io/blob/master/2048/32.png?raw=true);
+     background-image: url(image/32.png?raw=true);
      background-repeat: no-repeat;
     background-size: 106.25px 106.25px; }
   .tile.tile-64 .tile-inner {
-     background-image: url(https://github.com/thrilok209/thrilok.github.io/blob/master/2048/64.png?raw=true);
+     background-image: url(image/64.png?raw=true);
      background-repeat: no-repeat;
     background-size: 106.25px 106.25px; }
   .tile.tile-128 .tile-inner {
-    background-image: url(https://github.com/thrilok209/thrilok.github.io/blob/master/2048/128.png?raw=true);
+    background-image: url(image/128.png?raw=true);
      background-repeat: no-repeat;
     background-size: 106.25px 106.25px; }
     @media screen and (max-width: 520px) {
       .tile.tile-128 .tile-inner {
         font-size: 25px; } }
   .tile.tile-256 .tile-inner {
-     background-image: url(https://github.com/thrilok209/thrilok.github.io/blob/master/2048/256.png?raw=true);
+     background-image: url(image/256.png?raw=true);
      background-repeat: no-repeat;
     background-size: 106.25px 106.25px; }
     @media screen and (max-width: 520px) {
       .tile.tile-256 .tile-inner {
         font-size: 25px; } }
   .tile.tile-512 .tile-inner {
-  background-image: url(https://github.com/thrilok209/thrilok.github.io/blob/master/2048/512.png?raw=true);
+  background-image: url(image/512.png?raw=true);
      background-repeat: no-repeat;
     background-size: 106.25px 106.25px; }
     @media screen and (max-width: 520px) {
       .tile.tile-512 .tile-inner {
         font-size: 25px; } }
   .tile.tile-1024 .tile-inner {
-     background-image: url(https://github.com/thrilok209/thrilok.github.io/blob/master/2048/1024.jpg?raw=true);
+     background-image: url(image/1024.jpg?raw=true);
      background-repeat: no-repeat;
     background-size: 106.25px 106.25px; }
     @media screen and (max-width: 520px) {
       .tile.tile-1024 .tile-inner {
         font-size: 15px; } }
   .tile.tile-2048 .tile-inner {
-    background-image: url(https://github.com/thrilok209/thrilok.github.io/blob/master/2048/2048.jpg?raw=true);
+    background-image: url(image/2048.jpg?raw=true);
      background-repeat: no-repeat;
     background-size: 106.25px 106.25px; }
     @media screen and (max-width: 520px) {
       .tile.tile-2048 .tile-inner {
         font-size: 15px; } }
   .tile.tile-super .tile-inner {
-     background-image: url(https://github.com/thrilok209/thrilok.github.io/blob/master/2048/super.jpg?raw=true);
+     background-image: url(image/super.jpg?raw=true);
      background-repeat: no-repeat;
     background-size: 106.25px 106.25px; }
     @media screen and (max-width: 520px) {
